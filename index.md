@@ -12,6 +12,15 @@ I am PhD candidate at Massachusetts Institute of Technology and Woods Hole Ocean
 
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/CV.pdf">cv</a></li>
+          <li><a href="https://marcjofoster.github.io/marcjofoster/">github</a></li>
+      </ul>
+  </div>
+</div>
+
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
@@ -28,14 +37,4 @@ I am PhD candidate at Massachusetts Institute of Technology and Woods Hole Ocean
                   title="Blue Ham" alt="Blue Ham"/></a>
         </div>
     </div>
-</div>
-
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://marcjofoster.github.io/marcjofoster/">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
-      </ul>
-  </div>
 </div>
