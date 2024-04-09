@@ -5,7 +5,7 @@ description: Marc Foster is a PhD candidate at Massachusetts Institute of Techno
 keywords: chemistry, microbiology, pollutants, sustainability
 ---
 
-Hi There! I am PhD candidate at Massachusetts Institute of Technology and Woods Hole Oceanographic Institution. My research interests are in environmental fate of organic pollutants, specifically in the context of microbial mediated chemical transformations.
+I am PhD candidate at Massachusetts Institute of Technology and Woods Hole Oceanographic Institution. My research interests are in environmental fate of organic pollutants, specifically in the context of microbial mediated chemical transformations.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
