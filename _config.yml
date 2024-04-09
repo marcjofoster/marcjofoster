@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Blue Ham
+title : Marc Foster
 author :
-  name : Marisa Carlos
-  email : mbc96@cornell.edu
-  github : mbcarlos
-  twitter : MarisaBriCarlos
+  name : Marc Foster
+  email : fosterm@mit.edu
+  github : marcjofoster
+  twitter : marcjofoster
 
 production_url : http://marisabriana.github.io
 

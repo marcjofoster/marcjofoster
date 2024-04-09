@@ -18,8 +18,8 @@ Hi There! I am PhD candidate at Massachusetts Institute of Technology and Woods 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Marc Foster<br/>
+            Email: fosterm@mit.edu<br/>
         </div>
 
         <div class="span2">
