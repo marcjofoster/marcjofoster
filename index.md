@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Marc Foster
+description: Marc Foster is a PhD candidate at Massachusetts Institute of Technology and Woods Hole Oceanographic Institution studying Environmental Chemistry. 
+keywords: chemistry, microbiology, pollutants, sustainability
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Hi There! I am PhD candidate at Massachusetts Institute of Technology and Woods Hole Oceanographic Institution. My research interests are in environmental fate of organic pollutants, specifically in the context of microbial mediated chemical transformations.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
