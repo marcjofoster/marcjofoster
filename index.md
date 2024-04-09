@@ -7,7 +7,7 @@ keywords: chemistry, microbiology, pollutants, sustainability
 
 I am PhD candidate at Massachusetts Institute of Technology and Woods Hole Oceanographic Institution. My research interests are in environmental fate of organic pollutants, specifically in the context of microbial mediated chemical transformations.
 
-[curriculum vitae ![CV as pdf]({{ https://marcjofoster.github.io/marcjofoster/ }}/pages/icons16/pdf-icon.png)]({{ https://marcjofoster.github.io/marcjofoster/ }}/assets/CV.pdf)<br/>
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 ---
@@ -33,8 +33,8 @@ I am PhD candidate at Massachusetts Institute of Technology and Woods Hole Ocean
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ https://marcjofoster.github.io/marcjofoster/ }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="https://marcjofoster.github.io/marcjofoster/">GitHub</a></li>
           <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
       </ul>
   </div>
